@@ -67,10 +67,9 @@ data-science/
 
 ### Opção A — Google Colab (recomendado)
 
-1. Abra o notebook no Colab: **[link do Colab — adicionar após o push]**
-   `https://colab.research.google.com/github/Stratfy/gs2026-data-science-incendios-florestais/blob/main/notebooks/analise_incendios_florestais.ipynb`
+1. Abra o notebook no Colab: **[▶ Abrir no Google Colab](https://colab.research.google.com/github/Stratfy/gs2026-data-science-incendios-florestais/blob/main/notebooks/analise_incendios_florestais.ipynb)**
 2. Menu **Ambiente de execução → Executar tudo**. A célula de carga baixa os dados
-   automaticamente da URL RAW do GitHub (o link passa a valer após o push do repositório).
+   automaticamente da URL RAW do GitHub (o repositório é público, então o link já funciona).
 
 ### Opção B — Localmente (Jupyter)
 
